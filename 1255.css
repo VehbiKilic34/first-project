@@ -1,0 +1,21 @@
+
+.nav-bg {
+    background-color: #2d3e50 !important ;
+}
+.avatar-container {
+    background-color: #1bbc9b;
+}
+.about-container {
+    background-color: #1bbc9b;
+}
+.footer-container{
+    background-color: #2d3e50;
+    color: white;
+}
+
+a{
+    color:  #1bbc9b;
+}
+a:hover{
+    color: #09332b !important;
+}
